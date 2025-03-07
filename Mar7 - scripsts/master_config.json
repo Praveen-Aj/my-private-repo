@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    {
+      "name": "Telnet Node 1",
+      "type": "telnet",
+      "ip": "172.19.5.10",
+      "login": "mtcl",
+      "password": "mtcl",
+      "swinst_password": "SoftInst",
+      "root_password": "letacla"
+    }, 
+    {
+      "name": "Telnet Node 2",
+      "type": "telnet",
+      "ip": "172.19.6.20",
+      "login": "mtcl",
+      "password": "mtcl",
+      "swinst_password": "SoftInst",
+      "root_password": "letacla"
+    },
+    {
+      "name": "Telnet Node 3",
+      "type": "telnet",
+      "ip": "172.19.5.30",
+      "login": "mtcl",
+      "password": "mtcl",
+      "swinst_password": "SoftInst",
+      "root_password": "letacla"
+    },
+    {
+      "name": "Telnet Node 4",
+      "type": "telnet",
+      "ip": "172.19.5.40",
+      "login": "mtcl",
+      "password": "mtcl",
+      "swinst_password": "SoftInst",
+      "root_password": "letacla"
+    },
+    {
+      "name": "Telnet Node 5",
+      "type": "telnet",
+      "ip": "172.19.5.70",
+      "login": "mtcl",
+      "password": "mtcl",
+      "swinst_password": "SoftInst",
+      "root_password": "letacla"
+    },
+    {
+      "name": "Telnet Node 6",
+      "type": "telnet",
+      "ip": "172.19.5.111",
+      "login": "mtcl",
+      "password": "mtcl",
+      "swinst_password": "SoftInst",
+      "root_password": "letacla"
+    },
+    {
+      "name": "Telnet Node 7",
+      "type": "telnet",
+      "ip": "172.19.5.113",
+      "login": "mtcl",
+      "password": "mtcl",
+      "swinst_password": "SoftInst",
+      "root_password": "letacla"
+    },   
+    {
+      "name": "SSH Node 1",
+      "type": "ssh",
+      "ip": "172.19.5.80",
+      "login": "mtcl",
+      "password": "Sipsupport123$",
+      "swinst_password": "Sipsupport123$",
+      "root_password": "Sipsupport123$"
+    },
+    {
+      "name": "SSH Node 2",
+      "type": "ssh",
+      "ip": "172.19.5.90",
+      "login": "mtcl",
+      "password": "Sipsupport123$",
+      "swinst_password": "Sipsupport123$",
+      "root_password": "Sipsupport123$"
+    },
+    {
+      "name": "SSH Node 3",
+      "type": "ssh",
+      "ip": "172.19.5.121",
+      "login": "mtcl",
+      "password": "Sipsupport123$",
+      "swinst_password": "Sipsupport123$",
+      "root_password": "Sipsupport123$"
+    },
+    {
+      "name": "SSH Node 4",
+      "type": "ssh",
+      "ip": "172.19.5.122",
+      "login": "mtcl",
+      "password": "Sipsupport123$",
+      "swinst_password": "Sipsupport123$",
+      "root_password": "Sipsupport123$"
+    }
+  ],
+  "remote_server": [
+    {
+      "ip": "10.94.164.110",
+      "own_login": "paruljot",
+      "own_password": "Ale#1234",
+      "others_remote_login": "login",
+      "others_remote_password": "password"
+    }
+  ]
+}
